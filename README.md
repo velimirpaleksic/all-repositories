@@ -19,3 +19,4 @@
 
 ## **Context Menu Customization 🎨 | (Python, Batch)**
 1. [.264 to .mp4 Converter](https://github.com/velimirpaleksic/264-to-MP4-Context-Menu)
+2. [Take File/Folder Ownership](https://github.com/velimirpaleksic/Take-File-Folder-Ownership-Context-Menu)
