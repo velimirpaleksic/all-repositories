@@ -11,3 +11,5 @@
 
 ## **Chrome Extensions 📦 | (HTML, CSS JavaScript)**
 1. [Discord User Token Fetcher](https://github.com/velimirpaleksic/discord-user-token-fetcher)
+
+## **Cybersecurity / Utility Tools 🔐 | (C#, Python, C++)**
