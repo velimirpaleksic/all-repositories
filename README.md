@@ -1,2 +1,11 @@
-# all-repositories
-A sorted list of all my repositories.
+# All Repositories
+
+Web Development
+
+Cybersecurity / Utility Tools
+
+Context Menu Customization
+
+Bots and Automation
+
+Miscellaneous
