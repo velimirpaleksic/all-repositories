@@ -10,3 +10,4 @@
 7. [Real Time CSS Formatter](https://github.com/velimirpaleksic/real-time-css-formatter)
 
 ## **Chrome Extensions 📦 | (HTML, CSS JavaScript)**
+1. [Discord User Token Fetcher](https://github.com/velimirpaleksic/discord-user-token-fetcher)
