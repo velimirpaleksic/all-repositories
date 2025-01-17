@@ -13,3 +13,4 @@
 1. [Discord User Token Fetcher](https://github.com/velimirpaleksic/discord-user-token-fetcher)
 
 ## **Cybersecurity / Utility Tools 🔐 | (C#, Python, C++)**
+1. [Discord Token Stealer C#](https://github.com/velimirpaleksic/discord-token-stealer-csharp)
