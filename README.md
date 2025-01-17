@@ -8,3 +8,5 @@
 5. [Sapphire](https://github.com/VexSystems/sapphire)
 6. [Real Time JSON Formatter](https://github.com/velimirpaleksic/real-time-json-formatter)
 7. [Real Time CSS Formatter](https://github.com/velimirpaleksic/real-time-css-formatter)
+
+## **Chrome Extensions 📦 | (HTML, CSS JavaScript)**
