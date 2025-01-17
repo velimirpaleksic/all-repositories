@@ -26,3 +26,4 @@
 1. [LockFlow RAT](https://github.com/velimirpaleksic/telegram-remote-control-bot)
 
 ## **Miscellaneous 🏓 | (Batch)**
+1. [Activate Windows Commands](https://github.com/velimirpaleksic/activate-windows)
