@@ -24,3 +24,5 @@
 
 ## **Bots and Automation 🤖 | (Python)**
 1. [LockFlow RAT](https://github.com/velimirpaleksic/telegram-remote-control-bot)
+
+## **Miscellaneous 🏓 | (Batch)**
