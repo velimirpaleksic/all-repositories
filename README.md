@@ -15,3 +15,4 @@
 ## **Cybersecurity / Utility Tools 🔐 | (C#, Python, C++)**
 1. [Discord Token Stealer C#](https://github.com/velimirpaleksic/discord-token-stealer-csharp)
 2. [Discord Token Stealer Python](https://github.com/velimirpaleksic/discord-token-stealer-python)
+3. [Simple Encrypt/Decrypt C++](https://github.com/velimirpaleksic/simple-encrypt-decrypt)
