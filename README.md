@@ -23,7 +23,7 @@
 3. [Image Converter](https://github.com/velimirpaleksic/image-converter)
 
 ## **Bots and Automation 🤖 | (Python)**
-1. [LockFlow RAT](https://github.com/velimirpaleksic/telegram-remote-control-bot)
+1. [LockFlow RAT](https://github.com/velimirpaleksic/telegram-rat)
 
 ## **Miscellaneous 🏓 | (Batch)**
 1. [Activate Windows Commands](https://github.com/velimirpaleksic/activate-windows)
