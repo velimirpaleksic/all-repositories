@@ -12,6 +12,9 @@
 ## **Chrome Extensions 📦 | (HTML, CSS JavaScript)**
 1. [Discord User Token Fetcher](https://github.com/velimirpaleksic/discord-user-token-fetcher)
 
+## **Remote Control 🤖 | (Python)**
+1. [LockFlow RAT](https://github.com/velimirpaleksic/telegram-rat)
+
 ## **Cybersecurity / Utility Tools 🔐 | (C#, Python, C++)**
 1. [Discord Token Stealer C#](https://github.com/velimirpaleksic/discord-token-stealer-csharp)
 2. [Discord Token Stealer Python](https://github.com/velimirpaleksic/discord-token-stealer-python)
@@ -21,9 +24,6 @@
 1. [.264 to .mp4 Converter](https://github.com/velimirpaleksic/264-to-MP4-Context-Menu)
 2. [Take File/Folder Ownership](https://github.com/velimirpaleksic/Take-File-Folder-Ownership-Context-Menu)
 3. [Image Converter](https://github.com/velimirpaleksic/image-converter)
-
-## **Bots and Automation 🤖 | (Python)**
-1. [LockFlow RAT](https://github.com/velimirpaleksic/telegram-rat)
 
 ## **Miscellaneous 🏓 | (Batch)**
 1. [Activate Windows Commands](https://github.com/velimirpaleksic/activate-windows)
