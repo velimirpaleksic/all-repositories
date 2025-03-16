@@ -15,10 +15,11 @@
 ## **Remote Control 🤖 | (Python)**
 1. [LockFlow RAT](https://github.com/velimirpaleksic/telegram-rat)
 
-## **Cybersecurity / Utility Tools 🔐 | (C#, Python, C++)**
+## **Cybersecurity / Utility Tools 🔐 | (C#, Python, C++, JavaScript)**
 1. [Discord Token Stealer C#](https://github.com/velimirpaleksic/discord-token-stealer-csharp)
 2. [Discord Token Stealer Python](https://github.com/velimirpaleksic/discord-token-stealer-python)
 3. [Simple Encrypt/Decrypt C++](https://github.com/velimirpaleksic/simple-encrypt-decrypt)
+4. [Minecraft Server Status Checker](https://velimirpaleksic.github.io/minecraft-server-status-checker/)
 
 ## **Context Menu Customization 🎨 | (Python, Batch)**
 1. [.264 to .mp4 Converter](https://github.com/velimirpaleksic/264-to-MP4-Context-Menu)
