@@ -9,7 +9,7 @@
 6. [Real Time JSON Formatter](https://github.com/velimirpaleksic/real-time-json-formatter)
 7. [Real Time CSS Formatter](https://github.com/velimirpaleksic/real-time-css-formatter)
 
-## **Chrome Extensions 📦 | (HTML, CSS JavaScript)**
+## **Chrome Extensions 📦 | (HTML, CSS, JavaScript)**
 1. [Discord User Token Fetcher](https://github.com/velimirpaleksic/discord-user-token-fetcher)
 
 ## **Remote Control 🤖 | (Python)**
