@@ -2,10 +2,11 @@
 
 ## **Web Development 🌐 | (HTML, CSS, JavaScript)**
 1. [Portfolio](https://github.com/velimirpaleksic/portfolio)
-2. [Osnovna Škola Sveti Sava (Saint Sava Elementary School)](https://github.com/VexSystems/osnovna-skola-sveti-sava)
-3. [Sapphire](https://github.com/VexSystems/sapphire)
-4. [Fresco](https://github.com/VexSystems/fresco)
-5. [Pizza Corner](https://github.com/VexSystems/pizza-corner)
+2. [Sveti Petar Dabrobosanski](https://dabrobosanski.org/)
+3. [Osnovna Škola Sveti Sava (Saint Sava Elementary School)](https://github.com/VexSystems/osnovna-skola-sveti-sava)
+4. [Sapphire](https://github.com/VexSystems/sapphire)
+5. [Fresco](https://github.com/VexSystems/fresco)
+6. [Pizza Corner](https://github.com/VexSystems/pizza-corner)
 
 ## **Chrome Extensions 📦 | (HTML, CSS, JavaScript)**
 1. [Discord User Token Fetcher](https://github.com/velimirpaleksic/discord-user-token-fetcher)
